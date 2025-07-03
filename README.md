@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Nirmal</h1>
-<h3 align="center">Software Developer | IT Diploma Student</h3>
-
-<p align="center">
-  <img src="https://i.gifer.com/3rBZ.gif" width="220" alt="coder" />
-</p>
+<h3 align="center">Software Developer | IT Student</h3>
 
 <p align="center">
   <a href="https://prasadportfolio2.tiiny.site"><img src="https://img.shields.io/badge/🌐 TiinySite Portfolio-blueviolet?style=for-the-badge&logo=firefox-browser" /></a>
