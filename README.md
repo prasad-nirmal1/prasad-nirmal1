@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋%2C+I'm+Prasad+Nirmal;Software+Developer+%7C+IT+Diploma+Student;Crafting+Tech+with+Creativity+%F0%9F%94%A5;Welcome+to+my+Digital+Space+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Prasad Nirmal</h1>
+<h3 align="center">Software Developer | IT Diploma Student</h3>
 
 <p align="center">
   <img src="https://i.gifer.com/3rBZ.gif" width="220" alt="coder" />
@@ -52,7 +51,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasad-nirmal1&show_icons=true&theme=radical&border_radius=12" width="48%"/>
@@ -79,5 +78,5 @@
 
 ---
 
-> ✨ *"Creating solutions with logic, designing them with love — one commit at a time."*  
+> ✨ _“Creating solutions with logic, designing them with love — one commit at a time.”_  
 > — **Prasad Nirmal**
