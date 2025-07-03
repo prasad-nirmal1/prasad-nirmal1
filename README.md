@@ -41,7 +41,7 @@
 </tr>
 <tr>
   <td><b>💼 Portfolio Website</b><br/>Professional portfolio to showcase projects & skills</td>
-  <td><a href="https://prasadportfolio2.tiiny.site">TiinySite Link</a></td>
+  <td><a href="https://prasadportfolio2.tiiny.site">Portfolio Link</a></td>
 </tr>
 </table>
 
