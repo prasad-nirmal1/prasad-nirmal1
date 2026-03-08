@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | IT Student</h3>
 
 <p align="center">
-  <a href="https://prasadportfolio2.tiiny.site"><img src="https://img.shields.io/badge/🌐 TiinySite Portfolio-blueviolet?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="https://prasadportfolio.tiiny.site"><img src="https://img.shields.io/badge/🌐 TiinySite Portfolio-blueviolet?style=for-the-badge&logo=firefox-browser" /></a>
   <a href="https://prasad-nirmal1.github.io/"><img src="https://img.shields.io/badge/💼 GitHub Portfolio-orange?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/prasad-nirmal1/"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:prasadnirmal72@gmail.com"><img src="https://img.shields.io/badge/📬 Gmail-prasadnirmal72-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -32,16 +32,12 @@
 
 <table>
 <tr>
-  <td><b>🔐 Automatic Door System</b><br/>IoT + Arduino + Servo + Sensor based smart entry</td>
-  <td><a href="https://github.com/prasad-nirmal1/Automatic-Door-System">View on GitHub</a></td>
-</tr>
-<tr>
   <td><b>🧮 Web Calculator</b><br/>Mobile responsive HTML+CSS-only calculator</td>
   <td><a href="https://prasad-nirmal1.github.io/Calculator">Live Demo</a></td>
 </tr>
 <tr>
   <td><b>💼 Portfolio Website</b><br/>Professional portfolio to showcase projects & skills</td>
-  <td><a href="https://prasadportfolio2.tiiny.site">Portfolio Link</a></td>
+  <td><a href="https:///prasadportfolio.tiiny.site">Portfolio Link</a></td>
 </tr>
 </table>
 
