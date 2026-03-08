@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://prasadportfolio.tiiny.site"><img src="https://img.shields.io/badge/🌐 TiinySite Portfolio-blueviolet?style=for-the-badge&logo=firefox-browser" /></a>
   <a href="https://prasad-nirmal1.github.io/"><img src="https://img.shields.io/badge/💼 GitHub Portfolio-orange?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/prasad-nirmal1/"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/prasad-nirmal-5a4b61370/"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:prasadnirmal72@gmail.com"><img src="https://img.shields.io/badge/📬 Gmail-prasadnirmal72-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
